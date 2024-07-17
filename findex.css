@@ -1,0 +1,20 @@
+
+
+
+h2[title="başlık 1"]{
+    color: blue;
+}
+
+p[title="paragraf 1"]{
+    color: lightblue;
+    text-align: justify;
+}
+
+a[target="_blank"]{
+    color: green;
+}
+
+input[type="text"]{
+    background-color: aqua;
+}
+
